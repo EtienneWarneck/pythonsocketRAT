@@ -6,4 +6,6 @@ Running commands remotely on the command line of another computer and navigate i
 
 Follow Chap.6 Malware Development of Python Ethical Hacking.
 
+The image below shows that 
+
 ![](images/ChangeDirectoryVictim.png)

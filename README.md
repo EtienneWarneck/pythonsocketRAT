@@ -1,6 +1,6 @@
 
 
-# From Chap.6 Malware Development of Python Ethical Hacking #
+# From Chap.6 Malware Development of Python Ethical Hacking Packt Publishing #
 
 ## Python socket for Remote Access Tool 
 
